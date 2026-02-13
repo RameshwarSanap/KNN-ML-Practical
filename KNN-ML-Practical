@@ -8,14 +8,34 @@ KNN-ML-Practical/
 ├── KNN_Practical_Report.pdf
 └── README.md
 ```
-This commit includes the complete K-Nearest Neighbors (KNN) machine learning practical.
 
-Contents:
-- Heart disease dataset (heart.csv)
-- KNN implementation using Scikit-Learn library
-- Manual KNN implementation without library
-- Accuracy vs K-value graph visualization
-- Practical report in PDF format
-- README documentation
+This repository contains the implementation of the KNN (K-Nearest
+Neighbors) algorithm using Python.
 
-This project demonstrates understanding of KNN algorithm, distance calculation, model training, prediction, and performance evaluation.
+## 📌 Implementations Included
+
+-   KNN using Scikit-Learn library
+-   Manual KNN implementation (without ML library)
+-   Accuracy vs K-value graph visualization
+
+## 📂 Files
+
+-   heart.csv --- Dataset
+-   KNN_Using_Library.ipynb --- Library implementation
+-   Manual_KNN_Implementation.ipynb --- Manual KNN logic
+-   Manual_KNN_Graph.ipynb --- Graph version
+-   KNN_Practical_Report.pdf --- Practical report
+
+## 🛠 Technologies Used
+
+-   Python
+-   Pandas
+-   NumPy
+-   Matplotlib
+-   Seaborn
+-   Scikit-Learn
+
+## 🎯 Objective
+
+To understand the working of the KNN algorithm and compare library-based
+and manual implementations.
