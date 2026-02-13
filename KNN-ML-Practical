@@ -1,0 +1,21 @@
+```
+KNN-ML-Practical/
+│
+├── heart.csv
+├── KNN_Using_Library.ipynb
+├── Manual_KNN_Implementation.ipynb
+├── Manual_KNN_Graph.ipynb
+├── KNN_Practical_Report.pdf
+└── README.md
+```
+This commit includes the complete K-Nearest Neighbors (KNN) machine learning practical.
+
+Contents:
+- Heart disease dataset (heart.csv)
+- KNN implementation using Scikit-Learn library
+- Manual KNN implementation without library
+- Accuracy vs K-value graph visualization
+- Practical report in PDF format
+- README documentation
+
+This project demonstrates understanding of KNN algorithm, distance calculation, model training, prediction, and performance evaluation.
